@@ -5,7 +5,7 @@
 
 <!-- Animated glowing big name as an animated SVG badge -->
 <p align="center" style="margin-top: -10px; margin-bottom: 20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&color=6C63FF&background=0,0,0,0&width=600&lines=Md+Warish+Ansari" alt="Mohammad Warish Ansari" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&color=6C63FF&background=0,0,0,0&width=600&lines=Mohammad+Warish+Ansari" alt="Mohammad Warish Ansari" />
 </p>
 
 <p align="center" style="font-size: 1.2rem; margin-top: -10px; margin-bottom: 40px;">
@@ -54,7 +54,7 @@
 
 # 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,css,java,html,js,python,ts,aws,django,express,next,vite,vue,firebase,mongodb,mysql,sqlite,figma,git,github,,npm,node" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,css,java,html,js,python,ts,aws,django,express,next,vite,vue,firebase,mongodb,mysql,sqlite,figma,git,github,npm,node" alt="Tech Stack" />
 </p>
 
 ---
@@ -95,7 +95,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="[https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=md-warish-ansari-46b1ab258](https://www.linkedin.com/in/md-warish-ansari-46b1ab258/)" target="_blank" rel="noreferrer" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/md-warish-ansari-46b1ab258/" target="_blank" rel="noreferrer" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
