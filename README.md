@@ -1,27 +1,121 @@
-# 💫 About Me:
-💻 B.Tech CSE Student | Full-Stack Developer<br>⚛️ Passionate about Frontend with React.js <br>🐍 Python Enthusiast<br>🛠️ Currently Building MERN & Django Projects<br>🚀 Tech Explorer | 🎯 Problem Solver | 📚 Lifelong Learner<br>🎨 Crafting Clean UI | 💡 Learning AI & Scalable Systems<br>🔍 Focused on Career Growth & Real-world Projects<br>✨ Let’s Build & Innovate Together!<br><br>
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://i.postimg.cc/jjwcsBpP/D2.jpg" alt="Banner" width="100%" style="border-radius: 12px; max-height: 200px; object-fit: cover;" />
+</p>
 
+<!-- Typing animation with cycling lines -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6C63FF&width=600&lines=B.Tech+CSE+Student;Full-Stack+Developer;React.js+%7C+Python+%7C+Django;Let's+Build+and+Innovate+Together!" alt="Typing SVG" />
+</h1>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100074841669595) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mohammadwarish2024/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-warish-ansari-46b1ab258/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/mdwarish888) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:warishansari018@gmail.com) 
+<!-- Animated glowing name -->
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; color: #6C63FF; animation: glow 2.5s ease-in-out infinite alternate;">
+  Md Warish Ansari
+</h2>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mdwarish7867&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mdwarish7867&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdwarish7867&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center" style="font-size: 1.1rem; margin-top: -10px; margin-bottom: 30px;">
+  <span style="font-size: 2rem;">👇</span> Scroll down to explore
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mdwarish7867&theme=merko&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mdwarish7867&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<style>
+  @keyframes glow {
+    from {
+      text-shadow: 0 0 10px #6C63FF, 0 0 20px #6C63FF, 0 0 30px #9370DB;
+    }
+    to {
+      text-shadow: 0 0 20px #9370DB, 0 0 40px #6C63FF, 0 0 60px #483D8B;
+    }
+  }
+</style>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mdwarish7867&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me:
+<p align="center">
+💻 B.Tech CSE Student | Full-Stack Developer<br/>
+⚛️ Passionate about Frontend with React.js <br/>
+🐍 Python Enthusiast<br/>
+🛠️ Currently Building MERN & Django Projects<br/>
+🚀 Tech Explorer | 🎯 Problem Solver | 📚 Lifelong Learner<br/>
+🎨 Crafting Clean UI | 💡 Learning AI & Scalable Systems<br/>
+🔍 Focused on Career Growth & Real-world Projects<br/>
+✨ Let’s Build & Innovate Together!
+</p>
+
+---
+
+## 🌐 Socials:
+<p align="center">
+  <a href="https://facebook.com/profile.php?id=100074841669595" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/mohammadwarish2024/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-warish-ansari-46b1ab258/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/mdwarish888" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge" alt="X"/>
+  </a>
+  <a href="mailto:warishansari018@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
+  </a>
+</p>
+
+---
+
+# 💻 Tech Stack:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,css,java,html,js,python,ts,aws,django,express,next,node,npm,nodemon,vue,vite,firebase,mongodb,mysql,sqlite,figma,git,github" alt="Tech Stack" />
+</p>
+
+---
+
+# 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdwarish7867&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="150" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mdwarish7867&theme=dark&hide_border=false" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdwarish7867&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="150" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdwarish7867&theme=merko&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+---
+
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=mdwarish7867&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" />
+</p>
+
+---
+
+<p align="center">
+  [![Profile Views](https://visitcount.itsvg.in/api?id=mdwarish7867&icon=0&color=1)](https://visitcount.itsvg.in)
+</p>
+
+---
+
+<!-- Let's Connect Buttons -->
+<p align="center">
+  <a href="https://portfolio-m9f0.onrender.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/md-warish-ansari-46b1ab258/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
+
