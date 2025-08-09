@@ -17,16 +17,7 @@
   <span style="font-size: 2rem;">👇</span> Scroll down to explore
 </p>
 
-<style>
-  @keyframes glow {
-    from {
-      text-shadow: 0 0 10px #6C63FF, 0 0 20px #6C63FF, 0 0 30px #9370DB;
-    }
-    to {
-      text-shadow: 0 0 20px #9370DB, 0 0 40px #6C63FF, 0 0 60px #483D8B;
-    }
-  }
-</style>
+
 
 ---
 
