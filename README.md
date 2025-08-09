@@ -1,10 +1,10 @@
 <!-- Typing animation with cycling lines -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=6C63FF&width=700&lines=B.Tech+CSE+Student;Full-Stack+Developer;React.js+%7C+Python+%7C+Django;Let's+Build+and+Innovate+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=6C63FF&width=700&lines=B.Tech+CSE+Student;Full-Stack+Developer;React.js+%7C+Python+%7C+Django;Let's+Build+&+Innovate+Together!" alt="Typing SVG" />
 </h1>
 
 <!-- Animated glowing big name as an animated SVG badge -->
-<p align="center" style="margin-top: -20px; margin-bottom: 30px;">
+<p align="center" style="margin-top: -10px; margin-bottom: 20px;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=48&pause=1000&color=6C63FF&background=0,0,0,0&width=600&lines=Md+Warish+Ansari" alt="Md Warish Ansari" />
 </p>
 
@@ -95,7 +95,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/md-warish-ansari-46b1ab258/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+  <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=md-warish-ansari-46b1ab258" target="_blank" rel="noreferrer" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
