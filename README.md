@@ -1,23 +1,16 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://i.postimg.cc/jjwcsBpP/D2.jpg" alt="Banner" width="100%" style="border-radius: 12px; max-height: 200px; object-fit: cover;" />
-</p>
-
 <!-- Typing animation with cycling lines -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6C63FF&width=600&lines=B.Tech+CSE+Student;Full-Stack+Developer;React.js+%7C+Python+%7C+Django;Let's+Build+and+Innovate+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=6C63FF&width=700&lines=B.Tech+CSE+Student;Full-Stack+Developer;React.js+%7C+Python+%7C+Django;Let's+Build+and+Innovate+Together!" alt="Typing SVG" />
 </h1>
 
-<!-- Animated glowing name -->
-<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; color: #6C63FF; animation: glow 2.5s ease-in-out infinite alternate;">
-  Md Warish Ansari
-</h2>
-
-<p align="center" style="font-size: 1.1rem; margin-top: -10px; margin-bottom: 30px;">
-  <span style="font-size: 2rem;">👇</span> Scroll down to explore
+<!-- Animated glowing big name as an animated SVG badge -->
+<p align="center" style="margin-top: -20px; margin-bottom: 30px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=48&pause=1000&color=6C63FF&background=0,0,0,0&width=600&lines=Md+Warish+Ansari" alt="Md Warish Ansari" />
 </p>
 
-
+<p align="center" style="font-size: 1.2rem; margin-top: -20px; margin-bottom: 40px;">
+  <span style="font-size: 2.5rem;">👇</span> Scroll down to explore
+</p>
 
 ---
 
@@ -43,9 +36,12 @@
   <a href="https://www.instagram.com/mohammadwarish2024/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/md-warish-ansari-46b1ab258/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+
+  <!-- LinkedIn Follow button -->
+  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=md-warish-ansari-46b1ab258" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Follow on LinkedIn" />
   </a>
+
   <a href="https://x.com/mdwarish888" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge" alt="X"/>
   </a>
@@ -93,12 +89,6 @@
 
 ---
 
-<p align="center">
-  [![Profile Views](https://visitcount.itsvg.in/api?id=mdwarish7867&icon=0&color=1)](https://visitcount.itsvg.in)
-</p>
-
----
-
 <!-- Let's Connect Buttons -->
 <p align="center">
   <a href="https://portfolio-m9f0.onrender.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
@@ -109,4 +99,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
-
